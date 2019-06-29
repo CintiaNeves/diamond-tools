@@ -1,0 +1,105 @@
+body {
+	background-color: rgb(255,255,255);
+	font-family: "Crismon Text, serif";
+	font-size: 20px;
+}
+
+main h1 {
+	margin: 0px;
+	font-size: 40px;
+	background-color: #191970;
+	color: rgb(250, 255, 250);
+	text-align: center;
+	font-family: "Open Sans Condensed", sans-serif;
+	padding: 20px;
+	text-transform: uppercase;
+}
+
+h2 {
+	padding-top: 150px;
+	padding-left: 30px;
+	font-size: 30px;
+	font-family: "Open Sans", sans-serif;
+}
+
+p {
+	text-align: justify;
+	padding: 10px;
+	clear: both;
+
+}
+
+aside {
+	margin: 0px;
+	border: 13px solid #C2CCCA;
+	font-size: 15px;
+	background-color: #191970;
+	float: right;
+	width: 15%
+}
+
+nav ul li a{
+	color: #F2FFFC;
+	text-decoration: none;	
+}
+
+nav li {
+
+	padding-top: 15px;
+}
+
+footer {
+	background-color: #000000;
+	color: rgb(250, 255, 250);
+	font-size: 15px;
+	padding: 20px;
+	clear: both;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+
+nav h1 {
+	color: rgb(250, 255, 250); 
+	font-size: 30px;
+}
+
+
+.icones-sociais li {
+	display: inline-block;
+}
+
+.icones-sociais a {
+	width: 40px;
+	height: 40px;
+	display: inline-block;
+	text-indent: -9999px;
+}
+.github {
+	background-image: url(../img/github.png);
+}
+
+.linkedin {
+	background-image: url(../img/linkedin.png);
+}
+
+.logo{
+	width: 175px;
+	height: 280px;
+	display: inline-block;
+	text-indent: -9999px;
+	background-image: url(../img/logo.png);
+	float: left;
+}
+
+.main-index {
+	margin: 0px;
+	float: left;
+	width: 83%;
+}
+
+.main-catalogo {
+	margin: 0px;
+}
+
+
